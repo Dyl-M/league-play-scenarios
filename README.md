@@ -28,9 +28,12 @@ Elements followed by `(IGNORED)` are kept ignored / hidden by git for privacy pu
 
 ```
 ├── data
+│   └── rising_league_2024
+│       └── results.csv
+│
 ├── src
-│   ├── main.py
-│   └── test.py
+│   ├── _sandbox.py
+│   └── main.py
 │
 ├── .gitignore
 ├── LICENSE
