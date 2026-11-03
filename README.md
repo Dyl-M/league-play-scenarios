@@ -29,10 +29,13 @@ Elements followed by `(IGNORED)` are kept ignored / hidden by git for privacy pu
 ```
 ├── data
 │   └── rising_league_2024
-│       └── results.csv
+│       ├── results.csv
+│       └── team_aliases.json
 │
 ├── src
 │   ├── _sandbox.py
+│   ├── compute.py
+│   ├── datasets.py
 │   └── main.py
 │
 ├── .gitignore
